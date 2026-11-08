@@ -1,2 +1,2 @@
 # fileutils
-Various file utility functions implemented in C++ for funsies.
+Various file utility functions implemented for funsies.
