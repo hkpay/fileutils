@@ -1,4 +1,4 @@
 - [x] touch
-- [ ] echo
+- [x] echo
 - [ ] cat
 - [ ] mkdir
